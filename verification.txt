@@ -1,0 +1,16 @@
+Project 17 Verification
+
+CloudWatch Agent Status:
+Running
+
+Log Group:
+/bharath-capstone/project17-syslog
+
+Log Stream:
+i-04cf4af6356f1f28f
+
+Result:
+Logs successfully forwarded to AWS CloudWatch.
+
+Status:
+PASS
